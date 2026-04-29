@@ -49,7 +49,7 @@ The shift away from the power law during this decade can be attributed to three 
 
 **Contraceptive Prevalence:** The 1980s saw the first generation of globalized access to family planning. In 1960, contraceptive use in the developing world was negligible; by 1990, it had climbed to over 50% in many regions. This broke the "superexponential" feedback loop where more people automatically led to more births.
 
-**The Success of the Green Revolution:** This is counter-intuitive, but the Green Revolution of the 60s and 70s prevented the Malthusian collapses predicted in the 60s. Instead of people dying (which would have kept the population low), people survived, moved to cities, and became educated. Urbanization is the ultimate "singularity killer"—once a family moves from a farm to a city apartment, a child shifts from being a "producer" (free labor) to a "consumer" (an expense), and birth rates drop naturally.
+**The Success of the Green Revolution:** This is counter-intuitive, but the Green Revolution of the 1960s and 1970s prevented the Malthusian collapses predicted in the 1960s. Instead of people dying (which would have kept the population low), people survived, moved to cities, and became educated. Urbanization is the ultimate "singularity killer"—once a family moves from a farm to a city apartment, a child shifts from being a "producer" (free labor) to a "consumer" (an expense), and birth rates drop naturally.
 
 ### The "Phase Change"
 
