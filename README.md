@@ -55,4 +55,4 @@ The shift away from the power law during this decade can be attributed to three 
 
 The data effectively captures a **Phase Change**. Von Foerster's model assumed humans would continue to "eliminate environmental barriers" through cooperation forever. He didn't account for the fact that as we conquered the environment, we would also change our own biological behavior (the Demographic Transition).
 
-In physics terms, the 1980s was the point where the system's **negative feedback loops** (education, urbanization, contraception) finally overcame the **positive feedback loops** (medical advancement, food production) that were driving the singularity.
+In physics terms, the 1980s were the point where the system's **negative feedback loops** (education, urbanization, contraception) finally overcame the **positive feedback loops** (medical advancement, food production) that were driving the singularity.
