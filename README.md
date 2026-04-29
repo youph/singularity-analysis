@@ -45,7 +45,7 @@ The 1980s are widely recognized by demographers as the decade where the "Great D
 
 The shift away from the power law during this decade can be attributed to three massive global "brakes":
 
-**The "Asian Tiger" & China Effect:** In the late 70s and early 80s, the most populous regions on Earth underwent a massive cultural shift. China implemented the One-Child Policy in 1979. Simultaneously, "Tiger" economies (South Korea, Taiwan) saw explosive economic growth, which is historically the fastest way to crash a birth rate.
+**The "Asian Tigers" & China Effect:** In the late 70s and early 80s, the most populous regions on Earth underwent a massive cultural shift. China implemented the One-Child Policy in 1979. Simultaneously, "Tiger" economies (South Korea, Taiwan) saw explosive economic growth, which is historically the fastest way to crash a birth rate.
 
 **Contraceptive Prevalence:** The 1980s saw the first generation of globalized access to family planning. In 1960, contraceptive use in the developing world was negligible; by 1990, it had climbed to over 50% in many regions. This broke the "superexponential" feedback loop where more people automatically led to more births.
 
