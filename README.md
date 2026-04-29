@@ -38,3 +38,21 @@ The figure below is the 3-panel Stability Analysis output:
 
 ## Notes
 Recent windows in the rolling analysis show deterioration in training fit (higher MAPE), which is consistent with the hypothesis that global dynamics have shifted away from a stable hyperbolic regime.
+
+### Why the Shift Occurred in the 1980s
+
+The 1980s are widely recognized by demographers as the decade where the "Great Deceleration" became undeniable. While the growth rate (%) actually peaked in the late 1960s (at about 2.1%), the absolute annual increase in humans didn't peak until the late 1980s.
+
+The shift away from the power law during this decade can be attributed to three massive global "brakes":
+
+**The "Asian Tiger" & China Effect:** In the late 70s and early 80s, the most populous regions on Earth underwent a massive cultural shift. China implemented the One-Child Policy in 1979. Simultaneously, "Tiger" economies (South Korea, Taiwan) saw explosive economic growth, which is historically the fastest way to crash a birth rate.
+
+**Contraceptive Prevalence:** The 1980s saw the first generation of globalized access to family planning. In 1960, contraceptive use in the developing world was negligible; by 1990, it had climbed to over 50% in many regions. This broke the "superexponential" feedback loop where more people automatically led to more births.
+
+**The Success of the Green Revolution:** This is counter-intuitive, but the Green Revolution of the 60s and 70s prevented the Malthusian collapses predicted in the 60s. Instead of people dying (which would have kept the population low), people survived, moved to cities, and became educated. Urbanization is the ultimate "singularity killer"—once a family moves from a farm to a city apartment, a child shifts from being a "producer" (free labor) to a "consumer" (an expense), and birth rates drop naturally.
+
+### The "Phase Change"
+
+The data effectively captures a **Phase Change**. Von Foerster's model assumed humans would continue to "eliminate environmental barriers" through cooperation forever. He didn't account for the fact that as we conquered the environment, we would also change our own biological behavior (the Demographic Transition).
+
+In physics terms, the 1980s was the point where the system's **negative feedback loops** (education, urbanization, contraception) finally overcame the **positive feedback loops** (medical advancement, food production) that were driving the singularity.
